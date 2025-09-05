@@ -1,7 +1,16 @@
-# Call Center Analysis Dashboard
+# **Call Center Analysis Dashboard**
 
 ## Overview
  This project contains an interactive **Excel dashboard** for analyzing call center performance, built using PivotTables, Power Query, and Excel charts. 
+ 
+ ![Page2](https://github.com/user-attachments/assets/1d429d1f-21b5-4125-a5b2-4205414a9681)
+---
+ ![Main](https://github.com/user-attachments/assets/b9ba98f5-98bf-483b-b495-8c50d78a177a)
+---
+
+
+ 
+
 
  ### 🚀 Features
 - Sentiment Analysis of Calls (Positive, Negative, Neutral, etc.)
@@ -28,7 +37,13 @@
 - Normalized call reason categories (e.g., “Billing Questions” vs “Billing Query” → unified as “Billing Question”).  
 - Split columns for better analysis (e.g., separating Call Center location into City/State).  
 - Ensured numerical fields (AHT, NPS, SLA times) were in the correct format.  
-- Created a **CleanedData_source** sheet to store processed data for pivot tables.  
+- Created a **CleanedData_source** sheet to store processed data for pivot tables.
+
+<img width="1366" height="728" alt="Date Issue" src="https://github.com/user-attachments/assets/1293f45a-4e59-4e5d-b896-80ee33130388" />
+---
+<img width="1366" height="728" alt="null column" src="https://github.com/user-attachments/assets/edacf3af-53b5-4440-87ac-27f52b9f9e21" />
+
+
 
 #### 📈 Insights
 - Most common call reason: **Billing Questions**
