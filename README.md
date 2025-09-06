@@ -1,6 +1,17 @@
 # **Call Center Analysis Dashboard**
 
-## Overview
+
+## 📑 Table of Contents
+- [Project Overview](#project-overview)
+- [🚀 Features](#-features)
+- [🛠 Tools Used](#-tools-used)
+- [📈 Insights](#-insights)
+- [business questions](#business-questions)
+
+
+
+
+## Project Overview
  This project contains an interactive **Excel dashboard** for analyzing call center performance, built using PivotTables, Power Query, and Excel charts. 
  
  ![Page2](https://github.com/user-attachments/assets/1d429d1f-21b5-4125-a5b2-4205414a9681)
@@ -12,7 +23,7 @@
  
 
 
- ### 🚀 Features
+ #### 🚀 Features
 - Sentiment Analysis of Calls (Positive, Negative, Neutral, etc.)
 - Calls by Reason (Billing, Payments, Service Outage)
 - Time Response per Call (SLA performance)
